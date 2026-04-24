@@ -347,7 +347,7 @@ const projectShowcaseData = [
             "Full deployment cost analysis and revenue model for sustainable scaling"
         ],
         gradient: "from-amber-500/10 via-orange-500/5 to-transparent",
-        github: "https://github.com/sashwatpuri",
+        github: "https://github.com/sashwatpuri/Smart-traffic-and-parking-management-system",
     },
     {
         title: "Urban Water Intelligence System",
@@ -372,7 +372,7 @@ const projectShowcaseData = [
             "Hardware: ESP32 + Arduino with multi-sensor integration",
         ],
         gradient: "from-blue-500/10 via-cyan-500/5 to-transparent",
-        github: "https://github.com/sashwatpuri",
+        github: "https://github.com/priyanshu051sharma-blip/Pipeline_Punch",
     },
     {
         title: "Water Quality Prediction & Potability Analysis",
@@ -395,7 +395,7 @@ const projectShowcaseData = [
             "Data preprocessing and feature engineering for water quality datasets",
         ],
         gradient: "from-emerald-500/10 via-teal-500/5 to-transparent",
-        github: "https://github.com/sashwatpuri",
+        github: "https://github.com/sashwatpuri/water-quality-pridiction-modeling",
     },
     {
         title: "PitchForge - AI Pitch Enablement Platform",
